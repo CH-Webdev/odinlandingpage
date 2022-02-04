@@ -1,0 +1,30 @@
+.header {
+    display: flex;
+    height: 50vh;
+    background-color: rgb(4, 4, 138);
+}
+
+.header .logo a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar li {
+    list-style-type: none;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
